@@ -1,0 +1,5 @@
+{wisdom}
+{"wisdom": ""}
+{"name": ""}
+{"wisdom": "computers are the future"}
+{"name": "Bob"}
